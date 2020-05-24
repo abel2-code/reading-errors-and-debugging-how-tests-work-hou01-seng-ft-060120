@@ -1,3 +1,4 @@
 def first_number
-  puts 2
+num = 2
+  puts num
 end
